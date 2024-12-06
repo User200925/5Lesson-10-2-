@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+.styled {
+    position: relative;
+    top: 350px;
+    color: green;
+    font-weight: 500;
+    font-size: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
